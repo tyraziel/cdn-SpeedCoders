@@ -13,7 +13,7 @@
 --
 -- Author: Tyraziel (Andrew Potozniak)
 --
--- Released with the following lisense -
+-- Released with the following license -
 -- CC BY-NC-SA 3.0
 -- http://creativecommons.org/licenses/by-nc-sa/3.0/
 ---------------------------------------------------------------------------------------
